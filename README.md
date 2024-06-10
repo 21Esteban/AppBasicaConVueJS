@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+![image](https://github.com/21Esteban/AppBasicaConVueJS/assets/118059283/4b6d7fc3-768a-4626-897a-c452a60ca31e)
+
